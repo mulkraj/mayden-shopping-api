@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mayden.ShoppingApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6064ec25e9acfab4a4476fa1a7ac52ff9f24176b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mayden.ShoppingApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mayden.ShoppingApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

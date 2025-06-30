@@ -159,3 +159,4 @@
 /Users/mulkraj/Source/repos/Mayden.ShoppingApp.Api/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
 /Users/mulkraj/Source/repos/Mayden.ShoppingApp.Api/obj/Debug/net8.0/staticwebassets.build.json.cache
 /Users/mulkraj/Source/repos/Mayden.ShoppingApp.Api/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/mulkraj/Source/repos/Mayden.ShoppingApp.Api/obj/Debug/net8.0/Mayden.ShoppingApp.Api.sourcelink.json
