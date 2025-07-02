@@ -26,5 +26,5 @@ public static class ShoppingEndpoints
             await db.SaveChangesAsync();
             return Results.Created($"/products/{product.Id}", product);
         }).WithName("UpdateProduct").WithOpenApi();
-    }   
-}
+    }
+}   
